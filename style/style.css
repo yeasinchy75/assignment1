@@ -1,0 +1,156 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*part2*/
+
+.off {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+
+.holiday {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.catagories {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.new-year-image {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.part1{
+    background-image: url(../images/Banner\ Image.png);
+    text-align: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    border-radius: 1%;
+}
+.happy{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 300px;
+    
+}
+.new-year-party{
+    
+
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+}
+
+.part2 {
+    text-align: center;
+    padding: 30px;
+
+}
+
+.part3 {
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+
+    padding-top: 30px;
+    width: 100%;
+    height: 600px;
+    
+}
+
+.part3 {
+    display: flex;
+    background-position-x: center;
+    
+}
+
+.welcome {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    padding-top: 30px;
+    padding-left: 400px;
+}
+
+.text-description {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 50px 20px 400px;
+    
+}
+.button-join{
+    
+   
+    text-transform: uppercase;
+    position: absolute;
+    left: 20%;
+
+    
+}
+.image-group70{
+    padding-right: 480px;
+    padding-top: 40px;
+    
+}
+   
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #ccadad;
+    margin: 130px 450px;
+    
+
+}
+.dateplace{
+    text-align: center;
+    font-size: large;
+    
+    
+}
+.red-color{
+    color: #F00;
+}
+/*part4*/
+.resume-container{
+    display: flex;
+    background-color: #ccadad;
+}
+.resume-item{
+    padding: 30px;
+    border-radius: 5px;
+    
+}
+
+
