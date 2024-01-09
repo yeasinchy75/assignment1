@@ -1,6 +1,6 @@
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Poppins', sans-serif;
+    max-width: 1250px;
+    margin: auto;
 }
 
 /*part2*/
@@ -34,7 +34,8 @@ body {
 
 
 }
-.part1{
+
+.part1 {
     background-image: url(../images/Banner\ Image.png);
     text-align: center;
     background-position-x: center;
@@ -44,7 +45,8 @@ body {
     height: 800px;
     border-radius: 1%;
 }
-.happy{
+
+.happy {
     color: #FFF;
 
     text-align: center;
@@ -54,19 +56,21 @@ body {
     font-weight: 400;
     line-height: normal;
     padding-top: 300px;
-    
+
 }
-.new-year-party{
-    
+
+.new-year-party {
+
 
     color: #FFF;
 
-text-align: center;
-font-family: Merriweather;
-font-size: 72px;
-font-style: normal;
-font-weight: 900;
-line-height: 95px; /* 131.944% */
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
 }
 
 .part2 {
@@ -82,24 +86,24 @@ line-height: 95px; /* 131.944% */
     padding-top: 30px;
     width: 100%;
     height: 600px;
-    
+
 }
 
 .part3 {
     display: flex;
     background-position-x: center;
-    
+
 }
 
 .welcome {
     color: #FFF;
     font-family: Merriweather;
     font-size: 64px;
-    font-weight: 900;
+    font-weight: 800;
     line-height: 88px;
     letter-spacing: 7.04px;
-    padding-top: 30px;
-    padding-left: 400px;
+    padding-top: 20px;
+    padding-left: 100px;
 }
 
 .text-description {
@@ -107,50 +111,195 @@ line-height: 95px; /* 131.944% */
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
-    padding: 0px 50px 20px 400px;
-    
+    padding: 0px 50px 20px 100px;
+
 }
-.button-join{
-    
-   
+
+.button-join {
+
+
     text-transform: uppercase;
     position: absolute;
-    left: 20%;
+    left: 11%;
 
-    
+
 }
-.image-group70{
-    padding-right: 480px;
+
+.image-group70 {
+    padding-right: 100px;
     padding-top: 40px;
-    
+
 }
-   
+
 .about {
     padding: 130px;
     border-radius: 10px;
     background-color: #ccadad;
     margin: 130px 450px;
-    
+
 
 }
-.dateplace{
+
+.dateplace {
     text-align: center;
     font-size: large;
-    
-    
+
+
 }
-.red-color{
+
+.red-color {
     color: #F00;
 }
+
 /*part4*/
-.resume-container{
+.resume-container {
     display: flex;
     background-color: #ccadad;
 }
-.resume-item{
+
+.resume-item {
     padding: 30px;
     border-radius: 5px;
-    
+
 }
 
+/*part5*/
+.functional0 {
+    text-align: center;
+    padding-top: 20px;
+}
 
+.functional {
+    color: #070211;
+
+    font-size: small;
+
+
+}
+
+.holid {
+    color: #F00;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.sale2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.dolor {
+    color: rgba(7, 2, 17, 0.60);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+    padding: 0px 300px 0px 300px;
+}
+
+.all-image {
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    justify-content: space-around;
+
+}
+
+.image-4 {
+
+   
+    align-items: center;
+
+}
+
+.best-gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: small;
+
+    font-weight: 500;
+    padding-top: 30px;
+
+}
+
+.dolor-2 {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+    
+    padding: 0px 300px 0px 300px;
+}
+
+.part-7{
+    
+    border-radius: 10px;
+    background-color: #8b8b8b;
+     
+     height: 400px;
+     background-position: center;
+     text-align: center;
+     margin: 0 auto;
+}
+.image61{
+    size: 30%;
+}
+.button3{
+    background-color: #F00;
+    color: #FFF;
+    border-radius: 10%;
+    border: none;
+    
+    outline: none;
+}
+
+.input{
+    border: none;
+    
+    outline: none;
+}
+
+.footer{
+    border-radius: 10px;
+    background-color: #000000;
+     background-position: center;
+     margin: 0 auto;
+}
+.footer-1st{
+    display: flex;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.big{
+    padding: 120px 700px 409px 140px;
+}
+.social-link{
+    align-items: center;
+    text-align: center;
+}
+.last-footer{
+display: flex;
+color: #FFF;
+
+}
